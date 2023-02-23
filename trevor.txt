@@ -1,0 +1,22 @@
+DATA SECTION
+- https://www.nature.com/articles/s41597-020-0495-6
+- This dataset is comprised of 21,800 observations, with 24 variables.
+- The observations consist of basic physical factors such as age, sex, height, and weight as well as other features, such as
+  the final report, testing device, testing site, and the ekg scp codes, among many others.
+- The most critical variables here are the age, sex, final report, and the ekg scp codes. These variables will be
+  the most important determinants in our classification results. Age, sex, and final report are represented in their typical
+  forms, were the ekg scp codes are separated into 1 of 3 categories, then further separated into 1 of 74 statements in total
+- In terms of how this data will be handled for our project, there are a few variables that have very little population
+  in comparison to the dataset size, so we will have to drop some columns altogether due to lack of data and relevance
+  for those variables. Once we start the coding for our models and optimizations, we might have to transform the ekg scp codes
+  to be better separated or to group them into larger classes.
+
+PROJECT TIMELINE PROPOSAL
+2/25 - Search, discuss and finalize the dataset(s) with the group.
+3/1 - Each member completes their own peer review proposal for another group.
+3/2 - Import the data and start cleaning, transforming and whatever other operations are necessary to result in a full dataset
+3/6 - Discuss the analysis we would like to see performed by our ML model. Make sure the group is on the same page
+      in the methods we'd like to incorporate on the dataset to get meaningful results.
+3/6 - Begin the coding and actual implementation of these models and whatever metrics we decide to use to measure our performance
+3/16 - Complete the code and ensure our objectives have been reached. Make preparations to turn in the project
+3/19 - Turn in the final project
