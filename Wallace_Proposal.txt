@@ -1,0 +1,17 @@
+Problem Statement:
+
+How may one utilize data from an electrocardiogram (EKG) to detect irregular heart rhythms and predict the potentiality of heart disease in patients?
+Given EKG data, what kind of machine learning model(s) may best discover the patterns in identifying the presence of heart disease?
+What variables and parameters are most important for optimizing the accuracy and efficiency of the model?
+
+
+
+Team Expectations:
+
+#1: Everyone must show up to the agreed meeting time.
+#2: If one cannot meet in person, a Zoom meeting may be arranged to accommodate.
+#3: If one cannot meet at all, they must notify the group beforehand and ensure they are fully caught up on the progress that was discussed during the meeting, as well as provide any insight and assistance to project issues that were mentioned.
+#4: Check/use the group's Discord server regularly to maintain that you and the rest of the group are fully caught up on the project's timeline.
+#5: If one wants to suggest a change to a specific idea or someone else's code, message the other person/group first for approval.
+#6: Although everyone has their own preferences and expertise, it is important to divide the work evenly.
+#7: Schedules, goals, and deadlines will be created collectively in either the Discord server or during meetings to ensure everyone's personal schedule is accounted for.
